@@ -1,6 +1,6 @@
 services:
   engine:
     build: .
-    shm_size: 2.6gb
+    shm_size: 2.0gb
     ports:
       - "80:80"
